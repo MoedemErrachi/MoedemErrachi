@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,50:2563eb,100:06b6d4&section=header&text=Moedem%20Errachi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Fullstack%20%C2%B7%20DevOps%20%C2%B7%20AI&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="header" />
 </picture>
 
-<b>⌨️ the terminal of a builder who ships</b>
+<b>⌨️ the terminal of a builder who ships</b><br/>
 
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=Open+to+a+PFE+internship+%E2%80%94+Fullstack+%C2%B7+DevOps+%C2%B7+AI;I+turn+ideas+into+tools+people+actually+use;AWS+%2B+Azure+certified;Top+5+%26+Top+7+hackathon+finisher" alt="typing" />
@@ -20,9 +20,9 @@
 
 </div>
 
-<picture>
-  <img src="https://img.shields.io/badge/%E2%9A%A1_whoami-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="whoami" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%E2%9A%A1_whoami-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="whoami" /></picture>
+</div>
 
 ```json
 {
@@ -39,9 +39,9 @@
 > 🔭 **Currently open to a PFE internship (2026–2027)** — fullstack web, DevOps/Cloud or AI.
 > If your team ships real products → **errachimoedem34@gmail.com**
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A_live_dashboard-2563EB?style=for-the-badge&labelColor=1A1B27" alt="live dashboard" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%93%8A_live_dashboard-2563EB?style=for-the-badge&labelColor=1A1B27" alt="live dashboard" /></picture>
+</div>
 
 <div align="center">
 <b>📊 overview</b><br/><br/>
@@ -55,18 +55,18 @@
 <picture><img src="https://streak-stats.demolab.com?user=MoedemErrachi&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub streak" /></picture>
 </div>
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%90%8D_contributions-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="contributions" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%90%8D_contributions-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="contributions" /></picture>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-contribution-grid-snake.svg" width="100%" alt="" />
 </picture>
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_tech_stack-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="tech stack" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_tech_stack-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="tech stack" /></picture>
+</div>
 
 <div align="center">
 <b>Frontend</b><br/>
@@ -81,9 +81,9 @@
 <picture><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI and Data icons" /></picture>
 </div>
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_featured_builds-2563EB?style=for-the-badge&labelColor=1A1B27" alt="featured builds" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%9A%80_featured_builds-2563EB?style=for-the-badge&labelColor=1A1B27" alt="featured builds" /></picture>
+</div>
 
 | Build | What it does | Stack |
 |---|---|---|
@@ -93,9 +93,9 @@
 | 🗂️ [**Intern Tracking**](https://github.com/MoedemErrachi/RIF_Stages) | Took 40+ paper-based intern records online with a real-time progress dashboard | JS · Spring Boot · MySQL |
 | 🎓 [**UniLink**](https://github.com/Louay012/UniLink-backend) · team build | Student–coordinator platform with real-time WebSocket dashboards | Node.js · React · WebSocket |
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%93%88_numbers_i_ship_by-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="numbers i ship by" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%93%88_numbers_i_ship_by-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="numbers i ship by" /></picture>
+</div>
 
 <div align="center">
 <picture><img src="https://img.shields.io/badge/1000%2B-contacts%20centralized-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="1000+ contacts centralized" /></picture>
@@ -106,9 +106,9 @@
 <picture><img src="https://img.shields.io/badge/2%20cloud%20certs-AWS%20CP%20%C2%B7%20Azure%20AI-10B981?style=for-the-badge&labelColor=1A1B27" alt="2 cloud certifications" /></picture>
 </div>
 
-<picture>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_connect-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="connect" />
-</picture>
+<div>
+<picture><img src="https://img.shields.io/badge/%F0%9F%A4%9D_connect-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="connect" /></picture>
+</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/moedem-errachi"><img src="https://img.shields.io/badge/LinkedIn-moedem--errachi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" /></a>
