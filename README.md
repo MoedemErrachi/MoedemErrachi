@@ -2,8 +2,8 @@
   Moedem Errachi · GitHub Profile README
   Local copy — push to the PUBLIC repo named "MoedemErrachi" (same as username).
   Theme: dark-neon "terminal dashboard" (tokyonight purple/blue family).
-  v3: LEFT-aligned section pills · all decorative images non-clickable (<picture>) ·
-      cleaner dashboard (mini titles + spacing, no per-hour card) · categorized tech stack.
+  v3.2: no intern-tracking row · snake section keeps its spacing even when empty ·
+      left-aligned + spaced tech stack · left section pills · non-clickable images (<picture>).
 -->
 
 <div align="center">
@@ -59,27 +59,33 @@
 <picture><img src="https://img.shields.io/badge/%F0%9F%90%8D_contributions-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="contributions" /></picture>
 </div>
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-contribution-grid-snake.svg" width="100%" alt="" />
 </picture>
 
+<br/>
+
 <div>
 <picture><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_tech_stack-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="tech stack" /></picture>
 </div>
 
-<div align="center">
 <b>Frontend</b><br/>
-<picture><img src="https://skillicons.dev/icons?i=angular,react,tailwind,js,html,css&theme=dark" alt="Frontend icons" /></picture><br/>
+<picture><img src="https://skillicons.dev/icons?i=angular,react,tailwind,js,html,css&theme=dark" alt="Frontend icons" /></picture>
+
 <b>Backend</b><br/>
-<picture><img src="https://skillicons.dev/icons?i=nodejs,express,ts,spring,py,fastapi&theme=dark" alt="Backend icons" /></picture><br/>
+<picture><img src="https://skillicons.dev/icons?i=nodejs,express,ts,spring,py,fastapi&theme=dark" alt="Backend icons" /></picture>
+
 <b>Databases</b><br/>
-<picture><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase&theme=dark" alt="Databases icons" /></picture><br/>
+<picture><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase&theme=dark" alt="Databases icons" /></picture>
+
 <b>Cloud & DevOps</b><br/>
-<picture><img src="https://skillicons.dev/icons?i=docker,aws,terraform,githubactions,git&theme=dark" alt="Cloud and DevOps icons" /></picture><br/>
+<picture><img src="https://skillicons.dev/icons?i=docker,aws,terraform,githubactions,git&theme=dark" alt="Cloud and DevOps icons" /></picture>
+
 <b>AI & Data</b><br/>
 <picture><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI and Data icons" /></picture>
-</div>
 
 <div>
 <picture><img src="https://img.shields.io/badge/%F0%9F%9A%80_featured_builds-2563EB?style=for-the-badge&labelColor=1A1B27" alt="featured builds" /></picture>
@@ -90,7 +96,6 @@
 | 🕵️ [**Ainek Mizenek**](https://github.com/MoedemErrachi/Menacraft) · Menacraft **Top 5** | Splits authentic content from AI-generated content in seconds — the text/image consistency modules drive the trust score users see | Python · React |
 | 🤖 [**Sa3ed**](https://github.com/MoedemErrachi/LunarHack) · LunarHack **Top 7** | Smart Business Suite with an AI Marketing Assistant — the generation chain runs hands-free | FastAPI · n8n · Ollama |
 | 📇 [**ARSII Contact Platform**](https://github.com/MoedemErrachi/Plateforme-de-contact_ARSII) | 1000+ network contacts found in seconds — CI runs tests, lint & quality on every commit | Node.js · React · Docker |
-| 🗂️ [**Intern Tracking**](https://github.com/MoedemErrachi/RIF_Stages) | Took 40+ paper-based intern records online with a real-time progress dashboard | JS · Spring Boot · MySQL |
 | 🎓 [**UniLink**](https://github.com/Louay012/UniLink-backend) · team build | Student–coordinator platform with real-time WebSocket dashboards | Node.js · React · WebSocket |
 
 <div>
