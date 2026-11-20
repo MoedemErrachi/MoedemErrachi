@@ -57,16 +57,13 @@
 
 <div>
 <picture><img src="https://img.shields.io/badge/%F0%9F%90%8D_contributions-06B6D4?style=for-the-badge&labelColor=1A1B27" alt="contributions" /></picture>
-</div>
-
 <br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/MoedemErrachi/MoedemErrachi/output/github-contribution-grid-snake.svg" width="100%" alt="" />
 </picture>
-
 <br/>
+</div>
 
 <div>
 <picture><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_tech_stack-7C3AED?style=for-the-badge&labelColor=1A1B27" alt="tech stack" /></picture>
